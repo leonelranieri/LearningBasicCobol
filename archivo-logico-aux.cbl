@@ -1,0 +1,8 @@
+       FD EMPLEADOS-AUX.
+           01 EMPLEADO-AUX.
+               05 EMPLEADO-AUX-ID PIC 9(6).
+               05 EMPLEADO-AUX-NOMBRE PIC X(25).
+               05 EMPLEADO-AUX-APELLIDO PIC X(35).
+               05 EMPLEADO-AUX-EDAD PIC 9(4).
+               05 EMPLEADO-AUX-TELEFONO PIC X(9).
+               05 EMPLEADO-AUX-DIRECCION PIC X(35).
